@@ -1,4 +1,4 @@
-# 🚀 Server & Cloud Engineer | Hosting Automation Specialist  
+# 🚀 Server & Cloud Engineer
 Hi there! I’m **Sudip Kumar Mahato** – a server-side wizard 🧙‍♂️ who simplifies complex hosting with automation.  
 I manage Linux & Windows servers, optimize web infrastructure, and automate deployments so your business runs smoother and scales faster.
 

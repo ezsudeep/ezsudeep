@@ -1,5 +1,5 @@
 # 🚀 Server & Cloud Engineer
-Hi there! I’m **Sudip Kumar Mahato** – a server-side wizard 🧙‍♂️ who simplifies complex hosting with automation.  
+Hi 👋! I’m **Sudip Kumar Mahato** – a server-side wizard 🧙‍♂️ who simplifies complex hosting with automation.  
 I manage Linux & Windows servers, optimize web infrastructure, and automate deployments so your business runs smoother and scales faster.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ezsudeep&style=flat-square&color=blue)
